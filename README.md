@@ -1,7 +1,7 @@
 <h3>A Propos</h3>
 Dev FullStack qui adore les technos WebGPU & ThreeJS 😍
 
-<h3>Mes Langages & Framework préféré</h3>
+<h3>Mes Langages & Framework préférés</h3>
 JS, ThreeJS, PHP, Symfony, Prestashop, Python, NodeJS
 <br/>
 <br/>
